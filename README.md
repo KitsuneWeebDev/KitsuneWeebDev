@@ -1,5 +1,7 @@
 <a href="https://leetcode.com/KitsuneWeebDev/">
 <img src="https://github.com/KitsuneWeebDev/KitsuneWeebDev/assets/96599717/1003990e-77a4-46cb-a248-9e364ab8c23a"></a> 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A passionate DevOps from Brazil</h3> <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8f/7b/82/8f7b82fc3fddd9702c1fcccde39e6666.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitsuneweebdev&label=Profile%20views&color=0e75b6&style=flat" alt="kitsuneweebdev" /> </p>
@@ -22,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitsuneweebdev&show_icons=true&locale=en" alt="kitsuneweebdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kitsuneweebdev&" alt="kitsuneweebdev" /></p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
