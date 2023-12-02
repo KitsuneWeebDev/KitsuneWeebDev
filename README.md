@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm knight_nevada</h1>
 <h3 align="center">A passionate DevOps from Brazil</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8f/7b/82/8f7b82fc3fddd9702c1fcccde39e6666.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitsuneweebdev&label=Profile%20views&color=0e75b6&style=flat" alt="kitsuneweebdev" /> </p>
