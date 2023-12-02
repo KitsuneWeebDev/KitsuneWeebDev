@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm knight_nevada</h1>
-<h3 align="center">A passionate DevOps from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/KitsuneWeebDev/KitsuneWeebDev/assets/96599717/89b1040c-8a21-4fe6-b4f7-6700373da760)
-">
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8f/7b/82/8f7b82fc3fddd9702c1fcccde39e6666.gif">
+[![MasterHead] ![image](https://github.com/KitsuneWeebDev/KitsuneWeebDev/assets/96599717/fd07d66e-4e85-4a98-a3ee-1029d8d7df6b)](https://leetcode.com/KitsuneWeebDev/)
+<h1 align="center">Hi 👋, I'm knight_nevada</h1> 
+<h3 align="center">A passionate DevOps from Brazil</h3> <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8f/7b/82/8f7b82fc3fddd9702c1fcccde39e6666.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitsuneweebdev&label=Profile%20views&color=0e75b6&style=flat" alt="kitsuneweebdev" /> </p>
 
